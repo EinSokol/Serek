@@ -1,0 +1,15 @@
+{
+	id: "e4e2b67a-3145-40c7-af05-33ab247b0101"
+	type: "player"
+	player_name: "Wisterria"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Wisterria"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF596E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

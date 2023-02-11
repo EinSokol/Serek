@@ -1,0 +1,23 @@
+{
+	id: "f8db2ddb-73d2-45d8-a0df-a47436541d00"
+	type: "party"
+	owner: "229d0a01-d8d8-4c74-aee7-6fad3cf032f8"
+	ranks: {
+		229d0a01-d8d8-4c74-aee7-6fad3cf032f8: "owner"
+		e4e2b67a-3145-40c7-af05-33ab247b0101: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "EinSokol's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5982"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676126126457L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"EinSokol\"}]}" }
+		{ from: "229d0a01-d8d8-4c74-aee7-6fad3cf032f8", date: 1676126126463L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Wisterria\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676126143836L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Wisterria\"}]}" }
+		{ from: "229d0a01-d8d8-4c74-aee7-6fad3cf032f8", date: 1676126167606L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Wisterria\"}]}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "229d0a01-d8d8-4c74-aee7-6fad3cf032f8"
+	type: "player"
+	player_name: "EinSokol"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "EinSokol"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5982"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
